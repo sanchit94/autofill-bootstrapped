@@ -8,7 +8,7 @@ This is bootstrapped code you can use to implement autofill feature. This codeba
   - https://www.amazon.in/
 
 2. When the user is on a screen, clicking the button in the popup view will show the same notification it shows right now.
-3. When the user reaches the checkout screen, and the option to enter the Credit/Debit Card details is present, it should autofill card details that are hardcoded in the project(see /src/data.js) in the respective input fields. Once that's done, it should show a notification that card details are autofilled.
+3. When the user reaches the checkout screen, and the option to enter the Credit/Debit Card details is present, it should autofill card details that are hardcoded in the project(see /src/data.js) in the respective input fields. Once that's done, it should show a notification that card details are autofilled. Additionally, this functionality should work even if the user has not selected the Add a Credit/Debit Card select.
 
 ## Requirements
 1. Code quality is the foremost priority.
